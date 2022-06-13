@@ -1,7 +1,7 @@
 ### Olá pessoal, sou Rafael Henrique Carneiro, seja bem vindo! 👋
 
 Desenvolvedor Frontend apaixonado por novas tecnologias e novos desafios. Tenho bons conhecimentos em: HTML, JS e CSS. Estou muito interessado no REACT e aprendendo a usar a biblioteca.
-Estou desenvolvendo um projeto com React baseado em typescript e Tailwind Css no Frontend e Node js, Express e Prisma no Backend.
+Estou desenvolvendo um projeto com React-ts e Tailwind Css <!--  no Frontend e Node js, Express e Prisma no Backend.-->
 Estou cursando Graduação em Sistemas de Informação e cursando Desenvolvimento Full Stack na Tera.
 Sou movido a desafios e quero ser o melhor no que me proponho a fazer.
 
