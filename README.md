@@ -3,7 +3,9 @@
 Desenvolvedor Frontend apaixonado por novas tecnologias e novos desafios. Tenho bons conhecimentos em: HTML, JS e CSS. Estou muito interessado no REACT e aprendendo a usar a biblioteca.
 
 Estou desenvolvendo alguns projetos com React-ts e Tailwind Css <!--  no Frontend e Node js, Express e Prisma no Backend.-->
-Estou cursando Graduação em Sistemas de Informação e cursando Desenvolvimento Full Stack na Tera.
+Graduando em Sistemas de Informação;
+Participando do Bootcamp Desenvolvimento Full Stack na Tera.
+Participando do Bootcamp Ignite na Rocketseat.
 Sou movido a desafios e quero ser o melhor no que me proponho a fazer.
 
 
